@@ -10,3 +10,4 @@
 - [Addition of row and column elements in 2D array](https://github.com/balaji303/C-Exercise/blob/master/2dArrayAdd.c)
 - [Array Sorting in Descending order](https://github.com/balaji303/C-Exercise/blob/master/ArraySortDescendingorder.c)
 - [Array Sorting in Ascending order](https://github.com/balaji303/C-Exercise/blob/master/ArraySortAscendingorder.c)
+- [Function return more than one pointer](https://github.com/balaji303/C-Exercise/blob/master/FuncReturnPointer.c)
