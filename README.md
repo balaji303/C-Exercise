@@ -8,3 +8,4 @@
 - [Pointers Printing 3D array](https://github.com/balaji303/C-Exercise/blob/master/pointersPrinting3D_array.c)
 - [Number of elements divisible by the divisor in an array](https://github.com/balaji303/C-Exercise/blob/master/ArrayDivisor.c)
 - [Addition of row and column elements in 2D array](https://github.com/balaji303/C-Exercise/blob/master/2dArrayAdd.c)
+- [Array Sorting in Descending order](https://github.com/balaji303/C-Exercise/blob/master/ArraySortDescendingorder.c)
