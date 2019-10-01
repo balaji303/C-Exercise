@@ -6,3 +6,4 @@
 - [Print Array with Pointers](https://github.com/balaji303/C-Exercise/blob/master/printArraywithPointers.c)
 - [Pointers Printing 2D array](https://github.com/balaji303/C-Exercise/blob/master/pointersPrinting2D_array.c)
 - [Pointers Printing 3D array](https://github.com/balaji303/C-Exercise/blob/master/pointersPrinting3D_array.c)
+- [Number of elements divisible by the divisor in an Array](https://github.com/balaji303/C-Exercise/blob/master/ArrayDivisor.c)
