@@ -12,3 +12,4 @@
 - [Array Sorting in Ascending order](https://github.com/balaji303/C-Exercise/blob/master/ArraySortAscendingorder.c)
 - [Function return more than one pointer](https://github.com/balaji303/C-Exercise/blob/master/FuncReturnPointer.c)
 - [Array as function argument](https://github.com/balaji303/C-Exercise/blob/master/ArrayasArgument.c)
+- [2D Array as function argument](https://github.com/balaji303/C-Exercise/blob/master/2DArrayasArgument.c)
