@@ -1,5 +1,5 @@
 #include <stdio.h>
-void func(int a[2][2][5]);
+void func(int a[][2][5]); // void func(int a[2][2][5]);
 int main(void){
     int k,j,i,arr[2][2][5]={
                   {{1,2,3,4,5},
@@ -18,7 +18,7 @@ int main(void){
     }
     return 0;
 }
-void func(int a[2][2][5]){
+void func(int a[][2][5]){ // void func(int a[2][2][5]){
     int i,j,k;
     for(k=0;k<2;k++){
      for(i=0;i<2;i++){
