@@ -20,3 +20,4 @@
 - [Dynamic Memory Allocation using malloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingMalloc.c)
 - [Dynamic Memory Allocation using calloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingCalloc.c)
 - [Dynamic Memory Allocation using realloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingRealloc.c)
+- [Freeing memory using free function](https://github.com/balaji303/C-Exercise/blob/master/freeMemoryFunction.c)
