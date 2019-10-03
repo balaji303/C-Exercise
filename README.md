@@ -15,3 +15,4 @@
 - [2D Array as function argument](https://github.com/balaji303/C-Exercise/blob/master/2DArrayasArgument.c)
 - [3D Array as function argument](https://github.com/balaji303/C-Exercise/blob/master/3DArrayasArgument.c)
 - [Function Return more than one value](https://github.com/balaji303/C-Exercise/blob/master/FuncReturnMorethanone.c)
+- [Array of Pointer](https://github.com/balaji303/C-Exercise/blob/master/ArrayofPointer.c)
