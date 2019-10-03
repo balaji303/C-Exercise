@@ -20,5 +20,6 @@
 - [Dynamic Memory Allocation using calloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingCalloc.c)
 - [Dynamic Memory Allocation using realloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingRealloc.c)
 - [Dynamic Memory Allocation in Array using malloc](https://github.com/balaji303/C-Exercise/blob/master/DMAinArrayUsingArray.c)
+- [Dynamic Memory Allocation in Array using calloc](https://github.com/balaji303/C-Exercise/blob/master/DMAinArrayUsingArrayinCalloc.c)
 - [Freeing memory using free function](https://github.com/balaji303/C-Exercise/blob/master/freeMemoryFunction.c)
  
