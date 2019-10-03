@@ -17,3 +17,4 @@
 - [Function Return more than one value](https://github.com/balaji303/C-Exercise/blob/master/FuncReturnMorethanone.c)
 - [Array of Pointer](https://github.com/balaji303/C-Exercise/blob/master/ArrayofPointer.c)
 - [Void Pointers](https://github.com/balaji303/C-Exercise/blob/master/VoidPointers.c)
+- [Dynamic Memory Allocation using malloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingMalloc.c)
