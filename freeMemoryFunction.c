@@ -14,9 +14,7 @@ int main(){
             printf("Enter %d element-\n",i);
             scanf("%d",(p+i));
         }
-       for(i=0;i<n;i++){
-         free(p+i);  //void free(void *ptr)
-        }
+        free(p);  //void free(void *ptr)
         for(i=0;i<n;i++){
             printf("%d element- %d\n",i,*(p+i));
         }
