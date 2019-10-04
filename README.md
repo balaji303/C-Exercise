@@ -23,4 +23,4 @@
 - [Dynamic Memory Allocation in Array using calloc](https://github.com/balaji303/C-Exercise/blob/master/DMAinArrayUsingArrayinCalloc.c)
 - [Dynamic Memory Allocation in Array using realloc](https://github.com/balaji303/C-Exercise/blob/master/DMAinArrayUsingRealloc.c)
 - [Freeing memory using free function](https://github.com/balaji303/C-Exercise/blob/master/freeMemoryFunction.c)
-- [Dynamic Memory Allocation in 2D Array Using Pointers and malloc](https://github.com/balaji303/C-Exercise/blob/master/DMAin2dArrayUsingPointers.c)
+- [Dynamic Memory Allocation in 2D Array Using Pointers and malloc with constant column](https://github.com/balaji303/C-Exercise/blob/master/DMAin2dArrayUsingPointers.c)
