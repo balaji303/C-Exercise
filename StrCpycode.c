@@ -14,7 +14,7 @@ int main(){
     scanf("%s",pointer2);
     pointer2=(char *)realloc(pointer2,1*sizeof(char)+1);
     count=str_cpy(pointer1,pointer2);
-    printf("\nString 1 =%s",pointer1);
+    printf("\nString 1 =%s",count);
     free(pointer1);
     free(pointer2);
     return 0;
