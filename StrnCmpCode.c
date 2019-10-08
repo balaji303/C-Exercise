@@ -14,7 +14,7 @@ int main ()
   printf ("Enter second string\n");
   scanf ("%s", pointer2);
   pointer2 = (char *) realloc (pointer2, 1 * sizeof (char) + 1);
-  printf("Enter number of elements\n");
+  printf("Enter number of elements to be compared\n");
   scanf("%d",&n);
   printf ("%s\t%s", pointer1, pointer2);
   temp = str_n_compare (pointer1, pointer2,n);
