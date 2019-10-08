@@ -32,3 +32,4 @@
 - [Source code of strcpy function](https://github.com/balaji303/C-Exercise/blob/master/StrCpycode.c)
 - [Source code of strcat function](https://github.com/balaji303/C-Exercise/blob/master/StrCat.c)
 - [Source code of strncpy function](https://github.com/balaji303/C-Exercise/blob/master/Str_n_cpyCode.c)
+- [Source code of strncmp function](https://github.com/balaji303/C-Exercise/blob/master/StrnCmpCode.c)
