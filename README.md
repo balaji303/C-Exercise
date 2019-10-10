@@ -39,7 +39,7 @@
 - [Reverse all words in a string](https://github.com/balaji303/C-Exercise/blob/master/revAllWordsinStr.c)
 - [Lower case to upper case in string](https://github.com/balaji303/C-Exercise/blob/master/lowerCase2UpperCase.c)
 - [Upper case to lower case in string](https://github.com/balaji303/C-Exercise/blob/master/UpperCase2LowerCase.c)
-
+- [Reverse string using Pointer](https://github.com/balaji303/C-Exercise/blob/master/reverseStrUsingPointer.c)
 
 
 
