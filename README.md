@@ -37,8 +37,8 @@
 - [Count Words in String](https://github.com/balaji303/C-Exercise/blob/master/wordsinstr.c)
 - [Reverse every two character in a string](https://github.com/balaji303/C-Exercise/blob/master/rev2charinStr.c)
 - [Reverse all words in a string](https://github.com/balaji303/C-Exercise/blob/master/revAllWordsinStr.c)
-
-
+- [Lower case to upper case in string](https://github.com/balaji303/C-Exercise/blob/master/lowerCase2UpperCase.c)
+- [Upper case to lower case in string]()
 
 
 
