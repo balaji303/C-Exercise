@@ -36,7 +36,7 @@
 - [Source code of strncat function](https://github.com/balaji303/C-Exercise/blob/master/str_n_catCode.c)
 - [Count Words in String](https://github.com/balaji303/C-Exercise/blob/master/wordsinstr.c)
 - [Reverse every two character in a string](https://github.com/balaji303/C-Exercise/blob/master/rev2charinStr.c)
-
+- [Reverse all words in a string](https://github.com/balaji303/C-Exercise/blob/master/revAllWordsinStr.c)
 
 
 
