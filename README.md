@@ -16,7 +16,9 @@
 - [Function Return more than one value](https://github.com/balaji303/C-Exercise/blob/master/FuncReturnMorethanone.c)
 - [Array of Pointer](https://github.com/balaji303/C-Exercise/blob/master/ArrayofPointer.c)
 - [Void Pointers](https://github.com/balaji303/C-Exercise/blob/master/VoidPointers.c)
-## Dynamic Memory Allocation
+
+ **Dynamic Memory Allocation**
+
 - [Dynamic Memory Allocation using malloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingMalloc.c)
 - [Dynamic Memory Allocation using calloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingCalloc.c)
 - [Dynamic Memory Allocation using realloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingRealloc.c)
@@ -42,6 +44,8 @@
 - [Source code of strspn function](https://github.com/balaji303/C-Exercise/blob/master/strspn.c)
 - [Souce code of strstr function](https://github.com/balaji303/C-Exercise/blob/master/strstr.c)
 - [Source code of strtok function](https://github.com/balaji303/C-Exercise/blob/master/strtok.c)
+
+
 - [Count Words in String](https://github.com/balaji303/C-Exercise/blob/master/wordsinstr.c)
 - [Reverse every two character in a string](https://github.com/balaji303/C-Exercise/blob/master/rev2charinStr.c)
 - [Reverse all words in a string](https://github.com/balaji303/C-Exercise/blob/master/revAllWordsinStr.c)
