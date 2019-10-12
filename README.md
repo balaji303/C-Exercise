@@ -28,7 +28,7 @@
 - [Dynamic Memory Allocation in 2D Array Using Pointers and malloc with constant row](https://github.com/balaji303/C-Exercise/blob/master/DMAin2dArrayUsingPointersRowConstant.c)
 - [Dynamic Memory Allocation in 2D Array Using Pointers and malloc with variable rows and columns](https://github.com/balaji303/C-Exercise/blob/master/DMAin2DArray.c)
 - [String of Size infinite without space](https://github.com/balaji303/C-Exercise/blob/master/StrofDiffsize.c)
-** Source code
+** Source code**
 - [Source code of strlen function](https://github.com/balaji303/C-Exercise/blob/master/StrLengthcode.c)
 - [Source code of strcmp function](https://github.com/balaji303/C-Exercise/blob/master/StrCompare.c)
 - [Source code of strcpy function](https://github.com/balaji303/C-Exercise/blob/master/StrCpycode.c)
