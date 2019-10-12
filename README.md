@@ -16,6 +16,7 @@
 - [Function Return more than one value](https://github.com/balaji303/C-Exercise/blob/master/FuncReturnMorethanone.c)
 - [Array of Pointer](https://github.com/balaji303/C-Exercise/blob/master/ArrayofPointer.c)
 - [Void Pointers](https://github.com/balaji303/C-Exercise/blob/master/VoidPointers.c)
+## Dynamic Memory Allocation
 - [Dynamic Memory Allocation using malloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingMalloc.c)
 - [Dynamic Memory Allocation using calloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingCalloc.c)
 - [Dynamic Memory Allocation using realloc](https://github.com/balaji303/C-Exercise/blob/master/DMAusingRealloc.c)
@@ -27,6 +28,7 @@
 - [Dynamic Memory Allocation in 2D Array Using Pointers and malloc with constant row](https://github.com/balaji303/C-Exercise/blob/master/DMAin2dArrayUsingPointersRowConstant.c)
 - [Dynamic Memory Allocation in 2D Array Using Pointers and malloc with variable rows and columns](https://github.com/balaji303/C-Exercise/blob/master/DMAin2DArray.c)
 - [String of Size infinite without space](https://github.com/balaji303/C-Exercise/blob/master/StrofDiffsize.c)
+## Source code
 - [Source code of strlen function](https://github.com/balaji303/C-Exercise/blob/master/StrLengthcode.c)
 - [Source code of strcmp function](https://github.com/balaji303/C-Exercise/blob/master/StrCompare.c)
 - [Source code of strcpy function](https://github.com/balaji303/C-Exercise/blob/master/StrCpycode.c)
