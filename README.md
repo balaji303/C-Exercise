@@ -57,4 +57,12 @@
 **Structure**
 
 - [Structure diclaration](https://github.com/balaji303/C-Exercise/blob/master/sceSimple.c)
-- [Array of structure]()
+- [Array of structure](https://github.com/balaji303/C-Exercise/blob/master/ArrayOfSce.c)
+- [Array within Structure](https://github.com/balaji303/C-Exercise/blob/master/ArraywithinSce.c)
+
+
+
+
+
+
+
