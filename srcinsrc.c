@@ -20,9 +20,9 @@ int main(){
     printf("Enter maths marks:\n");
     scanf("%d",&government.marks.maths);
     printf("Name- %s\n",government.name);
-    printf("Roll no- %d",government.rollno);
-    printf("Tamil marks- %d",government.marks.tamil);
-    printf("English marks- %d",government.marks.english);
-    printf("Marks marks- %d",government.marks.maths);
+    printf("Roll no- %d\n",government.rollno);
+    printf("Tamil marks- %d\n",government.marks.tamil);
+    printf("English marks- %d\n",government.marks.english);
+    printf("Marks marks- %d\n",government.marks.maths);
     return 0;
 }
