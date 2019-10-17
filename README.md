@@ -63,7 +63,7 @@
 - [Array within Structure](https://github.com/balaji303/C-Exercise/blob/master/ArraywithinSce.c)
 - [Array within Structure with character](https://github.com/balaji303/C-Exercise/blob/master/ArrayinsrcwithChar.c)
 - [Changing Structure elements](https://github.com/balaji303/C-Exercise/blob/master/changingSrcElements.c)
-- [Structure in structure]()
+- [Structure in structure](https://github.com/balaji303/C-Exercise/blob/master/srcinsrc.c)
 
 
 
