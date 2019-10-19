@@ -4,6 +4,7 @@
 - [Adding the diagonal elements of the Matrix](https://github.com/balaji303/C-Exercise/blob/master/MatrixDiagonalAdd.c)
 - [Matrix Identical or not](https://github.com/balaji303/C-Exercise/blob/master/MAtrixIdenticalorNot.c)
 - [Prime or Not](https://github.com/balaji303/C-Exercise/blob/master/primeornot.c)
+- [Palindrome or Not](https://github.com/balaji303/C-Exercise/blob/master/PalindromeorNot.c)
 - [Revserse a number](https://github.com/balaji303/C-Exercise/blob/master/reverseaNum.c)
 - [Pointer to pointer](https://github.com/balaji303/C-Exercise/blob/master/Pointer2pointer.c)
 - [Print Array with Pointers](https://github.com/balaji303/C-Exercise/blob/master/printArraywithPointers.c)
