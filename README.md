@@ -6,6 +6,7 @@
 - [Prime or Not](https://github.com/balaji303/C-Exercise/blob/master/primeornot.c)
 - [Perfect number or Not](https://github.com/balaji303/C-Exercise/blob/master/PerfectNum.c)
 - [Leap year or Not](https://github.com/balaji303/C-Exercise/blob/master/leapYearorNot.c)
+- [Magic number or not](https://github.com/balaji303/C-Exercise/blob/master/MAgic%20number%20or%20not.c)
 - [Armstrong or not](https://github.com/balaji303/C-Exercise/blob/master/Armstrongnumber.c)
 - [Palindrome or Not](https://github.com/balaji303/C-Exercise/blob/master/PalindromeorNot.c)
 - [Revserse a number](https://github.com/balaji303/C-Exercise/blob/master/reverseaNum.c)
