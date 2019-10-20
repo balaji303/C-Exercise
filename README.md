@@ -73,7 +73,9 @@
 - [Changing Structure elements](https://github.com/balaji303/C-Exercise/blob/master/changingSrcElements.c)
 - [Structure in structure](https://github.com/balaji303/C-Exercise/blob/master/srcinsrc.c)
 
+**Recursion**
 
+- [Factorial using recursion](https://github.com/balaji303/C-Exercise/blob/master/factorialusingREC.c)
 
 
 
