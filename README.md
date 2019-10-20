@@ -4,6 +4,7 @@
 - [Adding the diagonal elements of the Matrix](https://github.com/balaji303/C-Exercise/blob/master/MatrixDiagonalAdd.c)
 - [Matrix Identical or not](https://github.com/balaji303/C-Exercise/blob/master/MAtrixIdenticalorNot.c)
 - [Prime or Not](https://github.com/balaji303/C-Exercise/blob/master/primeornot.c)
+- [Perfect number or Not](https://github.com/balaji303/C-Exercise/blob/master/PerfectNum.c)
 - [Leap year or Not](https://github.com/balaji303/C-Exercise/blob/master/leapYearorNot.c)
 - [Armstrong or not](https://github.com/balaji303/C-Exercise/blob/master/Armstrongnumber.c)
 - [Palindrome or Not](https://github.com/balaji303/C-Exercise/blob/master/PalindromeorNot.c)
