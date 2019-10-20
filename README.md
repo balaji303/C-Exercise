@@ -8,6 +8,7 @@
 - [Armstrong or not](https://github.com/balaji303/C-Exercise/blob/master/Armstrongnumber.c)
 - [Palindrome or Not](https://github.com/balaji303/C-Exercise/blob/master/PalindromeorNot.c)
 - [Revserse a number](https://github.com/balaji303/C-Exercise/blob/master/reverseaNum.c)
+- [Fibonacci till given number](https://github.com/balaji303/C-Exercise/blob/master/fibonassiTillInput.c)
 - [Pointer to pointer](https://github.com/balaji303/C-Exercise/blob/master/Pointer2pointer.c)
 - [Print Array with Pointers](https://github.com/balaji303/C-Exercise/blob/master/printArraywithPointers.c)
 - [Pointers Printing 2D array](https://github.com/balaji303/C-Exercise/blob/master/pointersPrinting2D_array.c)
