@@ -41,6 +41,9 @@
 - [Dynamic Memory Allocation in 2D Array Using Pointers and malloc with variable rows and columns](https://github.com/balaji303/C-Exercise/blob/master/DMAin2DArray.c)
 - [String of Size infinite without space](https://github.com/balaji303/C-Exercise/blob/master/StrofDiffsize.c)
 
+**HackerRank**
+- [Small triangle Large Triangle](https://github.com/balaji303/C-Exercise/blob/master/SmallTriBigTri.c)
+
 **Source code**
 
 - [Source code of strlen function](https://github.com/balaji303/C-Exercise/blob/master/StrLengthcode.c)
