@@ -30,7 +30,7 @@ int main(){
     
     for(i=0;i<n;i++){
         for(j=(i+1);j<n;j++){
-            if(xvol[i]<xvol[j]){
+            if(xvol[i]>xvol[j]){
                 temp=xvol[i];
                 xvol[i]=xvol[j];
                 xvol[j]=temp;
