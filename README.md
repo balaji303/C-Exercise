@@ -42,6 +42,7 @@
 - [String of Size infinite without space](https://github.com/balaji303/C-Exercise/blob/master/StrofDiffsize.c)
 
 **HackerRank**
+
 - [Small triangle Large Triangle](https://github.com/balaji303/C-Exercise/blob/master/SmallTriBigTri.c)
 
 **Source code**
