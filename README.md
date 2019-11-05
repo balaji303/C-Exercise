@@ -97,4 +97,4 @@
 **Bitwise Operation**
 
 - [Status of Variable position](https://github.com/balaji303/C-Exercise/blob/master/statusofVARposition.c)
-- [](https://github.com/balaji303/C-Exercise/blob/master/NumberofZero%26one
+- [](https://github.com/balaji303/C-Exercise/blob/master/NumberofZero%26one)
