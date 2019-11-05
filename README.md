@@ -97,3 +97,4 @@
 **Bitwise Operation**
 
 - [Status of Variable position](https://github.com/balaji303/C-Exercise/blob/master/statusofVARposition.c)
+
