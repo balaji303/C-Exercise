@@ -26,6 +26,7 @@
 - [Function Return more than one value](https://github.com/balaji303/C-Exercise/blob/master/FuncReturnMorethanone.c)
 - [Array of Pointer](https://github.com/balaji303/C-Exercise/blob/master/ArrayofPointer.c)
 - [Void Pointers](https://github.com/balaji303/C-Exercise/blob/master/VoidPointers.c)
+- [Greatest of three numbers](https://github.com/balaji303/C-Exercise/blob/master/Greatest%20of%203%20numbers.c)
 
  **Dynamic Memory Allocation**
 
