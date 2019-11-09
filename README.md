@@ -56,6 +56,7 @@
 - [Source code of strncpy function](https://github.com/balaji303/C-Exercise/blob/master/Str_n_cpyCode.c)
 - [Source code of strncmp function](https://github.com/balaji303/C-Exercise/blob/master/StrnCmpCode.c)
 - [Source code of strncat function](https://github.com/balaji303/C-Exercise/blob/master/str_n_catCode.c)
+- [Source code of strcat function 2](https://github.com/balaji303/C-Exercise/blob/master/strcat2.c)
 - [Source code of strcspn function](https://github.com/balaji303/C-Exercise/blob/master/strcspn.c)
 - [Source code of strspn function](https://github.com/balaji303/C-Exercise/blob/master/strspn.c)
 - [Souce code of strstr function](https://github.com/balaji303/C-Exercise/blob/master/strstr.c)
