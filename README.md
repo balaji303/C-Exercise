@@ -99,4 +99,4 @@
 
 - [Status of Variable position](https://github.com/balaji303/C-Exercise/blob/master/statusofVARposition.c)
 - [Number of zeros and ones](https://github.com/balaji303/C-Exercise/blob/master/NumberofZero%26one)
-- [Operation on Bits]
+- [Operation on Bits]()
