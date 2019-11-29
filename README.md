@@ -84,7 +84,6 @@
 - [Changing Structure elements](https://github.com/balaji303/C-Exercise/blob/master/changingSrcElements.c)
 - [Structure in structure](https://github.com/balaji303/C-Exercise/blob/master/srcinsrc.c)
 - [Pointer to a structure](https://github.com/balaji303/C-Exercise/blob/master/Pointer2aSrc.c)
-- []()
 
 **Recursion**
 
