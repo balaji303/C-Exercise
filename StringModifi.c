@@ -29,3 +29,19 @@ for(int j=0;j<i;j++){
 }
 return 0;
 }
+/*
+////Output:
+
+Enter the string (End it with a tab button):goo*&(D m$ornin/g ##hav!|\e a
+nic)(E
+^%da*y 12345	
+gooD morning have a
+nicE
+day 12345
+Number of Special char:	15
+Number of New line    :	2
+The user input without Special character are:gooD morning have a
+nicE
+day 12345
+
+*/
