@@ -25,3 +25,14 @@ int main(){
  return 0;
 
 }
+
+
+
+/*
+Op:
+Enter the number: 8                                                                                                                  
+                                                                                                                                     
+Enter the position to check: 3                                                                                                       
+The bit is not set
+
+*/
