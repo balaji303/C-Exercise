@@ -1,4 +1,4 @@
-//Armstrong number
+//Armstrong numbers
 #include <stdio.h>
 int main(){
     int input,temp,Armstrong=0,ip;
