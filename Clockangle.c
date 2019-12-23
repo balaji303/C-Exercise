@@ -1,4 +1,4 @@
-//Clock angle between hour and minute hand
+//Clock angle between hour and minute hand with
 #include <stdio.h>
 int main(void){
 printf("Clock Problem\n");
