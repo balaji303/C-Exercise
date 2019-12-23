@@ -1,4 +1,4 @@
-//Clock
+//Clock angle 
 #include <stdio.h>
 int main(void){
 printf("Clock Problem\n");
