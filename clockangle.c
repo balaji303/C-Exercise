@@ -1,3 +1,4 @@
+//Clock angle with less accuracy
 #include <stdio.h>
 int main(void){
 printf("Clock Problem\n");
