@@ -17,7 +17,7 @@ while(min>=61 || hour<=0)
   printf("Wrong Minute Please enter between 1 to 60 ");
   scanf("%d",&min);
 }
-	//printf("The Enered Hour and the minute is:\n%d;%d",hour,min);
+	//printf("The Enered Hour and the minute 
 cmin=min/5;
 chour=hour;
 if(hour>=cmin)
