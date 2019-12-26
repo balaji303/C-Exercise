@@ -27,7 +27,6 @@ if(hour>=cmin)
 	else{
         angle=((cmin-hour)*30);
 	}
-
 angle2=(360-(angle));
 printf("The angles at the time %d:%d is\t%d and %d ",hour,min,angle,angle2);  
 return 0;
