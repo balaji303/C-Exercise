@@ -4,7 +4,7 @@ int main()
 {
     char a[1000],b[1000],c[10];
     int i;
-    // printf("Enter");
+    // printf("Enter a number");
     scanf("%s",b);
     // for(i=0;a[i];i++){
     // b[i]=a[i];
