@@ -1,4 +1,4 @@
-//Leap year or not
+//Leap year or not a leap year
 #include <stdio.h>
 int main(){
  int input_year;
