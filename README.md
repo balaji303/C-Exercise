@@ -91,6 +91,7 @@ Add clock angle link
 
 - [Factorial using recursion](https://github.com/balaji303/C-Exercise/blob/master/factorialusingREC.c)
 - [String reverse using recursion](https://github.com/balaji303/C-Exercise/blob/master/STRreverseusingREC.c)
+- https://github.com/balaji303/C-Exercise/blob/master/recursiveproblem.c
 
 **TypeDef**
 
