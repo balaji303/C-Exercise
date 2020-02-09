@@ -76,7 +76,7 @@ Add clock angle link
 - [Array of pointer with address explanation](https://github.com/balaji303/C-Exercise/blob/master/ArrayofPointers2.c)
 - [Pointer to an array with address explanation](https://github.com/balaji303/C-Exercise/blob/master/PointertoanArray.c)
 - [Para printing without special char,counting no. of lines and no. of special char](https://github.com/balaji303/C-Exercise/blob/master/StringModifi.c)
-https://github.com/balaji303/C-Exercise/blob/master/StringManipulate.c
+(https://github.com/balaji303/C-Exercise/blob/master/StringManipulate.c)
 
 **Structure**
 
