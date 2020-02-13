@@ -46,7 +46,7 @@ Add clock angle link
 **HackerRank**
 
 - [Small triangle Large Triangle](https://github.com/balaji303/C-Exercise/blob/master/SmallTriBigTri.c)
-
+https://github.com/balaji303/C-Exercise/blob/master/Clockangle.c
 
 **Source code**
 
