@@ -1,5 +1,5 @@
 # C Excersie and code
-Add clock angle 
+Add clo
 - [Digit Frequency](https://github.com/balaji303/Wolverine/blob/master/test.c)
 - [Adding the diagonal elements of the Matrix](https://github.com/balaji303/C-Exercise/blob/master/MatrixDiagonalAdd.c)
 - [Matrix Identical or not](https://github.com/balaji303/C-Exercise/blob/master/MAtrixIdenticalorNot.c)
