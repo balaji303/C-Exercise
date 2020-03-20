@@ -1,6 +1,6 @@
 //Armstrong numbers
 #include <stdio.h>
-int main(){
+int main(void){
     int input,temp,Armstrong=0,ip;
     printf("Enter a number\n");
     scanf("%d",&input);
