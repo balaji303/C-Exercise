@@ -1,4 +1,4 @@
-/*
+
 C/C++ provides various data types that can be used in your programs.
 
 In general, you'd commonly use:
@@ -8,7 +8,7 @@ char for characters and strings
 float for general measurable things (seconds, distance, temperature)
 uint32_t for bit manipulations, especially on 32-bit registers
 The appropriate stdint.h types for storing and working with data explicitly at the bit level
-Integer Data Types
+**Integer Data Types**
 C type	stdint.h type	Bits	Sign	Range
 char	uint8_t	8	Unsigned	0 .. 255
 signed char	int8_t	8	Signed	-128 .. 127
@@ -22,4 +22,4 @@ Floating Point Data Types
 C type	IEE754 Name	Bits	Range
 float	Single Precision	32	-3.4E38 .. 3.4E38
 double	Double Precision	64	-1.7E308 .. 1.7E308
-*/
+
