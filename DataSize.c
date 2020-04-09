@@ -1,4 +1,4 @@
-
+/*
 C/C++ provides various data types that can be used in your programs.
 
 In general, you'd commonly use:
@@ -23,3 +23,4 @@ C type	IEE754 Name	Bits	Range
 float	Single Precision	32	-3.4E38 .. 3.4E38
 double	Double Precision	64	-1.7E308 .. 1.7E308
 
+*/
