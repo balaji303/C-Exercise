@@ -13,7 +13,7 @@ C type         |	stdint.h type	Bits	Sign	Range
 char	         |uint8_t	8	Unsigned	0 .. 255
 signed char    |	int8_t	8	Signed	-128 .. 127
 unsigned short |	uint16_t	16	Unsigned	0 .. 65,535
-short	int16_t |	16	Signed	-32,768 .. 32,767
+short	int16_t  |	16	Signed	-32,768 .. 32,767
 unsigned int |	uint32_t	32	Unsigned	0 .. 4,294,967,295
 int	int32_t	| 32	Signed	-2,147,483,648 .. 2,147,483,647
 unsigned long long |	uint64_t	64	Unsigned	0 .. 18,446,744,073,709,551,615
