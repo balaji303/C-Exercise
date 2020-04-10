@@ -9,9 +9,9 @@ float for general measurable things (seconds, distance, temperature)
 uint32_t for bit manipulations, especially on 32-bit registers
 The appropriate stdint.h types for storing and working with data explicitly at the bit level
 **Integer Data Types**
-C type             	stdint.h type	Bits	Sign	Range
-char	              uint8_t	8	Unsigned	0 .. 255
-signed char        	int8_t	8	Signed	-128 .. 127
+C type             	stdint.h type	 Bits	 Sign	        Range
+char	              uint8_t	        8	 Unsigned	      0 .. 255
+signed char        	int8_t	 8	Signed	-128 .. 127
 unsigned short     	uint16_t	16	Unsigned	0 .. 65,535
 short	int16_t      	16	Signed	-32,768 .. 32,767
 unsigned int       	uint32_t	32	Unsigned	0 .. 4,294,967,295
