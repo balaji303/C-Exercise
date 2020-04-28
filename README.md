@@ -1,4 +1,7 @@
 # C Excersie and code
+[![LastCommit](https://img.shields.io/github/last-commit/balaji303/C-Exercise.svg?style=social)](https://github.com/balaji303/C-Exercise/commits/master)
+
+
 
 - [Digit Frequency](https://github.com/balaji303/Wolverine/blob/master/test.c)
 - [Adding the diagonal elements of the Matrix](https://github.com/balaji303/C-Exercise/blob/master/MatrixDiagonalAdd.c)
