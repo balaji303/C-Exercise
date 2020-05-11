@@ -111,7 +111,7 @@
 **Bitwise Operation**
 
 - [Status of Variable position](https://github.com/balaji303/C-Exercise/blob/master/statusofVARposition.c)
-- [Number of zeros and ones](https://github.com/balaji303/C-Exercise/blob/master/NumberofZero%26one)
+- [Number of zeros and ones in a number](https://github.com/balaji303/C-Exercise/blob/master/NumberofZero%26one)
 - [Operation on Bits](https://github.com/balaji303/C-Exercise/blob/master/OperationonBits.c)
 - [Set a bit](https://github.com/balaji303/C-Exercise/blob/master/setbit.c)
 
