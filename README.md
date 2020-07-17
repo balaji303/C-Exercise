@@ -1,6 +1,6 @@
 # C Excersie and code
 [![LastCommit](https://img.shields.io/github/last-commit/balaji303/C-Exercise.svg?style=social)](https://github.com/balaji303/C-Exercise/commits/master)
-
+1000th Commit
 
 
 - [Digit Frequency](https://github.com/balaji303/Wolverine/blob/master/test.c)
