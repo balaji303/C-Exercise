@@ -1,4 +1,3 @@
-
 // Low accuracy
 #include <stdio.h>
 int main(void){
