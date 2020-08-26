@@ -1,3 +1,6 @@
+/*
+Enter Individual Digits and convert that to a number
+*/
 #include <stdio.h>
 int main(void)
 {
