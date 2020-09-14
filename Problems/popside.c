@@ -31,6 +31,7 @@ if(noPopside%noSiblings==0){
 else{
       printf("eat them yourself\n");
 	}
+return 0;
 }
 /*
 Output:
