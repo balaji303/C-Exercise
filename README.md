@@ -50,7 +50,7 @@
 - [Small triangle Large Triangle](https://github.com/balaji303/C-Exercise/blob/master/SmallTriBigTri.c)
 - [Clock angle problem accuracy level-HIGH](https://github.com/balaji303/C-Exercise/blob/master/Clockangle.c)
 - [Clock angle problem accuracy level-LOW ](https://github.com/balaji303/C-Exercise/blob/master/ClockangleLow.c)
-- []()
+- [](https://github.com/balaji303/C-Exercise/blob/master/Bitwise.c)
 
 **Source code**
 
