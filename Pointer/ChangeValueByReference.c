@@ -11,4 +11,6 @@ int main()
     modify_var(&num);
     
     printf("%d\n", num);
+ 
+    return 0;
 }
