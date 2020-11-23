@@ -1,1 +1,1 @@
-
+You can't define a Function within another function in standard C.                          Ans:True
