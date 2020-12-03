@@ -1,5 +1,5 @@
 /*
-Consider a 30x30 LED Display, the input must be a LED to start with followed by lighting all the LEDs in the diagonal
+Consider a 30x30 LED Display, the input must be a LED to start with followed by lighting all the LEDs in the diagonal followed by closeing the loop
 */
 #include <stdio.h>
 int main(void){
