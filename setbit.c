@@ -29,7 +29,7 @@ int main(){
 
 
 /*
-Op:
+Output:
 Enter the number: 8                                                                                                                  
                                                                                                                                      
 Enter the position to check: 3                                                                                                       
