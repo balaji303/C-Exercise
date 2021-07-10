@@ -10,7 +10,9 @@ int main(){
         if(i%2!=0||a[i]=='\0'){
             printf("%c%c",a[i],a[i-1]);
         }
-       else{}
+       else{
+       //Do Nothing
+       }
     }
     return 0;
 }
