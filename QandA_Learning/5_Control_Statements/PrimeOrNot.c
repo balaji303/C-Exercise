@@ -10,13 +10,14 @@
  */
 
 #include <stdio.h>
+#include <math.h>
 #include <stdint.h>
 
 int main(void)
 {
     uint8_t userInput;
     scanf("%d",&userInput);
-    for(int i = 2; i <= userInput; i++)
+    for(int i = 2; i <= sqrt(userInput); i++)
     {
         if(userInput == 2)
         {
