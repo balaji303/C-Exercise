@@ -1,0 +1,7 @@
+*.exe
+*.stackdump
+*.ppj
+*.ppx
+*.tag
+*.obj
+*.lib
