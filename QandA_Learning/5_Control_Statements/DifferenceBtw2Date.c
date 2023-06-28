@@ -62,6 +62,6 @@ int main(void)
     //Difference in days
     uint32_t diffDate = date2 - date1;
     diffDays = diffDays + diffDate;
-    printf("%d",Mod(diffDays));
+    printf("%d",diffDays);
     return 0;
 }
