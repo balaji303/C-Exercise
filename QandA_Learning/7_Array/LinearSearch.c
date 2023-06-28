@@ -1,3 +1,13 @@
+/**
+ * @file LinearSearch.c
+ * @author @balaji303 (https://github.com/balaji303)
+ * @brief LinearSearch in an array
+ * @version 1
+ * @date 23-06-2023
+ * 
+ * Copyright (c) 2023 @balaji303
+ * 
+ */
 #include <stdio.h>
 #include <stdint.h>
 
@@ -16,8 +26,11 @@ int main(void)
     {
         scanf("%d",&inputArray[i]);
     }
+    // Get the value to search
     scanf("%d",&valueToSearch);
+    //Search
     indexOfValueReq = LinearSearch( inputArray, valueToSearch );
+    //Process the result
     if (indexOfValueReq < 0)
     {
         printf("Value not found!");
